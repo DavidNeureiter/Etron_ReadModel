@@ -1,0 +1,7 @@
+{
+    "url_template": "(Set_URL)/api/v2/read/product.template/?ids={}",
+    "headers": {
+      "Authorization": "Basic SET",
+      "Cookie": "INGRESSCOOKIE=SET"
+    }
+}
